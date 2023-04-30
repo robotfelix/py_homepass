@@ -1,4 +1,4 @@
-"""Shared Constants for the PyHomepass package."""
+"""Shared Constants for the py_homepass package."""
 
 ACCESS_TOKEN_DEFAULT_TTL = 3600 # 1 hour
 ACCESS_TOKEN_REAUTHENTICATE_WITHIN = 10
